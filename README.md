@@ -1,2 +1,2 @@
 # java_repository
-I am gonna create and add core java programs here
+This is a simple repository for Learning Java especiallly Core java
