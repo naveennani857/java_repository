@@ -1,1 +1,39 @@
-Writing to a text file
+What is Java?
+
+What are the features of Java?
+
+Explain the concept of OOP (Object-Oriented Programming).
+
+What is inheritance in Java?
+
+What is polymorphism?
+
+What is encapsulation?
+
+What is an interface in Java?
+
+Explain the difference between == and equals() in Java.
+
+What is a constructor?
+
+What is the difference between an abstract class and an interface?
+
+What is the significance of the final keyword?
+
+Explain the concept of garbage collection in Java.
+
+What is the difference between ArrayList and LinkedList?
+
+What is the purpose of the main method?
+
+What is a package in Java?
+
+Explain the concept of multithreading.
+
+What is the difference between synchronized and volatile?
+
+What is the difference between throw and throws?
+
+What is the difference between instanceof and getClass()?
+
+What is the difference between abstract and interface methods?
