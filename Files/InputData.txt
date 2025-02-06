@@ -1,0 +1,7 @@
+map.put("Maths", 87);
+map.put("Science", 78);
+map.put("Biology", 60);
+map.put("Economics", 90);
+map.put("Hystory", 50);
+
+List.of("Maths","science","social","String");
