@@ -1,3 +1,5 @@
+package reflection;
+
 public class Cat {
     private final String name;
     private int age;
@@ -17,6 +19,10 @@ public class Cat {
 
     public void setAge(int age) {
         this.age = age;
+    }
+
+    private void catMethod(){
+        System.out.println("accessing Private Final method");
     }
 
     @Override
